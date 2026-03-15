@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:9B59B6,100:C39BD3&height=160&section=header&text=Mohit%20Murarka&fontSize=45&animation=twinkling&fontColor=fff" alt="banner"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Agentic+Systems;LangGraph+%7C+LangChain+%7C+GPT-5-mini;Full-Stack+%28MERN+%2B+FastAPI%29+Developer;Building+intelligent%2C+autonomous+pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Agentic+Systems;LangGraph+%7C+LangChain+%7C+GPT-4o;Full-Stack+%28MERN+%2B+FastAPI%29+Developer;Building+intelligent%2C+autonomous+pipelines" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,10 +17,10 @@ AI engineer building agentic systems and quantitative research agents with LangG
 
 ## 🚀 Featured Projects
 
-**[Autonomous Quant Research Agent](https://github.com/MohitMurarka/quant-research-agent)** — `LangGraph` `GPT-5-mini` `FastAPI` `React` `SQLite` `E2B`
+**[Autonomous Quant Research Agent](https://github.com/MohitMurarka)** — `LangGraph` `GPT-4o` `FastAPI` `React` `SQLite` `E2B`
 > Multi-agent system orchestrating 7 specialized GPT agents that autonomously write, execute, and evaluate Python backtesting code. Features self-correcting code loops via E2B sandboxes, a Hypothesis Graveyard for cross-session memory, and a full-stack UI with live agent activity feed.
 
-**[Customer Feedback Categorization Pipeline](https://github.com/MohitMurarka/customer_support_escalation_agent)** — `LangChain` `LangGraph` `Gemini API` `Python`
+**[Customer Feedback Categorization Pipeline](https://github.com/MohitMurarka)** — `LangChain` `LangGraph` `Gemini API` `Python`
 > Automated multi-stage pipeline processing unstructured reviews into structured insights across 8+ categories. LangGraph state machine handles sentiment analysis, priority tagging, and department routing — reducing manual classification effort by 70%+.
 
 ---
@@ -28,7 +28,7 @@ AI engineer building agentic systems and quantitative research agents with LangG
 ## 🛠 Tech Stack
 
 **AI / Agentic**
-`LangChain` `LangGraph` `GPT-5-mini` `Gemini API` `E2B` `Deep Learning`
+`LangChain` `LangGraph` `GPT-4o` `Gemini API` `E2B` `Deep Learning`
 
 **Web & Backend**
 `React` `Node.js` `Express.js` `FastAPI` `MongoDB` `PostgreSQL` `SQLite`
@@ -54,9 +54,30 @@ AI engineer building agentic systems and quantitative research agents with LangG
 
 ---
 
+## 💻 Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 Coding Platforms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Mohit_Murarka-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mohit_Murarka/)
+
+---
+
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FBE?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-murarka-b165882aa/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-9B59B6?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mohit_Murarka/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-murarka-b165882aa/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitmurarka2004@gmail.com)
+
+<p align="left">📫 <b>mohitmurarka2004@gmail.com</b></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C39BD3,50:9B59B6,100:7B2FBE&height=100&section=footer" alt="footer"/>

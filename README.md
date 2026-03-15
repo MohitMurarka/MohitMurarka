@@ -17,11 +17,14 @@ AI engineer building agentic systems and quantitative research agents with LangG
 
 ## 🚀 Featured Projects
 
-**[Autonomous Quant Research Agent](https://github.com/MohitMurarka)** — `LangGraph` `GPT-5-mini` `FastAPI` `React` `SQLite` `E2B`
+**[Autonomous Quant Research Agent](https://github.com/MohitMurarka/quant-research-agent)** — `LangGraph` `GPT-5-mini` `FastAPI` `React` `SQLite` `E2B`
 > Multi-agent system orchestrating 7 specialized GPT agents that autonomously write, execute, and evaluate Python backtesting code. Features self-correcting code loops via E2B sandboxes, a Hypothesis Graveyard for cross-session memory, and a full-stack UI with live agent activity feed.
 
-**[Customer Feedback Categorization Pipeline](https://github.com/MohitMurarka)** — `LangChain` `LangGraph` `Gemini API` `Python`
+**[Customer Feedback Categorization Pipeline](https://github.com/MohitMurarka/customer_support_escalation_agent)** — `LangChain` `LangGraph` `Gemini API` `Python`
 > Automated multi-stage pipeline processing unstructured reviews into structured insights across 8+ categories. LangGraph state machine handles sentiment analysis, priority tagging, and department routing — reducing manual classification effort by 70%+.
+
+**[CodeForge AI](https://github.com/MohitMurarka/CodeForge-AI)** — `LangGraph` `GPT-5-mini` `LLM Agents` `Python`
+> Stateful multi-agent code review system where GPT agents analyze, refactor, and validate code through iterative improvement loops. Combines LLM reasoning with static checks, supports human-in-the-loop review, and maintains persistent workflow state across runs.
 
 ---
 

@@ -97,4 +97,6 @@ AI engineer building agentic systems and quantitative research agents with LangG
 
 <p align="left">📫 <b>mohitmurarka2004@gmail.com</b></p>
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MohitMurarka.MohitMurarka)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,50:FF6B6B,100:000000&height=100&section=footer" alt="footer"/>

@@ -30,6 +30,9 @@ AI engineer building agentic systems and quantitative research agents with LangG
 **[Autonomous Quant Research Agent](https://github.com/MohitMurarka/quant-research-agent)** — `LangGraph` `GPT-4o-mini` `FastAPI` `React` `SQLite` `E2B`
 > Multi-agent system orchestrating 7 specialized GPT agents that autonomously write, execute, and evaluate Python backtesting code. Features self-correcting code loops via E2B sandboxes, a Hypothesis Graveyard for cross-session memory, and a full-stack UI with live agent activity feed.
 
+**[RepoMind](https://github.com/MohitMurarka/repoMind)** — `LangGraph` `GPT-4o-mini` `FastAPI` `React` `Qdrant` `Cohere` `tree-sitter` `RAGAS`
+> Production-deployed Agentic RAG system for codebases. Paste any public GitHub URL — RepoMind indexes it with AST-aware chunking (tree-sitter, 6 languages), hybrid BM25 + dense search with RRF fusion, and Cohere reranking. A LangGraph agent then answers natural language questions with cited file paths and exact line numbers. RAGAS evaluation on Flask codebase: Faithfulness 0.847 · Answer Relevancy 0.821 · Context Precision 0.793. Live at [repo-mind-lilac.vercel.app](https://repo-mind-lilac.vercel.app).
+
 **[Legal Document Assistant](https://github.com/MohitMurarka/legal-document-assistant)** — `LangGraph` `LangChain` `Groq` `Llama-3.3-70B` `ChromaDB` `RAGAS` `Streamlit`
 > Agentic legal Q&A system with 8-node LangGraph pipeline, ChromaDB RAG, and LLM faithfulness scoring (0–1) with auto-retry below 0.7. RAGAS evaluation: Context Precision 1.000 · Internal Suite 10/10.
 
@@ -44,7 +47,7 @@ AI engineer building agentic systems and quantitative research agents with LangG
 ## 🛠 Tech Stack
 
 **AI / Agentic**
-`LangChain` `LangGraph` `GPT-4o` `Llama-3.3-70B` `Groq API` `Gemini API` `ChromaDB` `RAGAS` `E2B` `Prompt Engineering`
+`LangChain` `LangGraph` `GPT-4o` `Llama-3.3-70B` `Groq API` `Gemini API` `ChromaDB` `Qdrant` `RAGAS` `E2B` `Cohere` `tree-sitter` `Prompt Engineering`
 
 **Web & Backend**
 `React` `Node.js` `Express.js` `FastAPI` `Flask` `SQLite` `MySQL` `Streamlit`

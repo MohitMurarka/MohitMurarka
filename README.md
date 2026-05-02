@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF6B6B,100:FFD93D&height=160&section=header&text=MOHIT%20MURARKA&fontSize=45&animation=twinkling&fontColor=fff" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF6B6B,100:FFD93D&height=160&section=header&text=Mohit%20Murarka&fontSize=45&animation=twinkling&fontColor=fff" alt="banner"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&pause=1000&color=FFD93D&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Agentic+Systems;LangGraph+%7C+LangChain+%7C+GPT-5;Full-Stack+%28React+%2B+FastAPI%29+Developer;Building+intelligent%2C+self-correcting+pipelines;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
